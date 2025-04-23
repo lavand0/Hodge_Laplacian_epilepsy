@@ -1,0 +1,15 @@
+Training Loss:       1.2626256942749023
+Training Accuracy:   0.600253164768219
+Validation Loss:     1.4121452569961548
+Validation Accuracy: 0.5778846144676208
+
+patience = 10
+layer_depths = [16, 32, 64]
+kernel_sizes = [4, 8]
+dropout_rate = 0.5
+learning_rate = 0.00005
+num_classes = 60
+output_prefix = "EEG_epilepsy_more_data"
+batch_size = 100
+epochs = 1000
+num_train = 7900

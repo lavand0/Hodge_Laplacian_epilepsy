@@ -1,0 +1,4 @@
+Training Loss:       2.742706537246704
+Training Accuracy:   0.0860000029206276
+Validation Loss:     2.7477805614471436
+Validation Accuracy: 0.07000000029802322
